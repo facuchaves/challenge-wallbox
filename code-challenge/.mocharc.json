@@ -1,0 +1,6 @@
+{
+  "extension": ["ts"],
+  "spec": "./server/tests/**/*.spec.ts",
+  "file": "./server/tests/setup.ts",
+  "require": "ts-node/register"
+}
